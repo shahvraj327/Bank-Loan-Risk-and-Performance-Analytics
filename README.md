@@ -21,7 +21,7 @@ The dashboard provides insights into:
 - Regional Loan Distribution
 - Loan Purpose Analysis
 
----
+---  
 
 ##  Features
 
@@ -142,21 +142,6 @@ The dataset contains information such as:
 
 ---
 
-##  Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-- Power BI Dashboard Development
-- SQL Query Writing
-- Data Cleaning
-- Data Transformation
-- DAX Calculations
-- Business Intelligence
-- Financial Data Analysis
-- Data Visualization Best Practices
-
----
-
 ##  Future Improvements
 
 - Connect with SQL Server instead of CSV.
@@ -167,6 +152,3 @@ Through this project, I gained hands-on experience in:
 
 ---
 
----
-
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
