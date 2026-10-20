@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Analysis Dashboard
+# Bank Loan Analysis Dashboard
 
 A comprehensive **Bank Loan Analysis Dashboard** built using **Power BI** and **SQL** to analyze loan applications, funding, repayments, customer demographics, and loan performance. This project provides valuable business insights through interactive dashboards and data-driven visualizations.
 
